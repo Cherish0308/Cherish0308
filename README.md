@@ -41,20 +41,6 @@ I'm an **AI & Data Engineer** focused on building autonomous, production-ready s
 
 ---
 
-### 📡 [Real-Time Job Intelligence System](https://github.com/Cherish0308/Real_time_job_intelligence_system)
-> Live job market scraping, resume screening, and intelligent matching pipeline
-
-- `Python` · `FastAPI` · `NLP`
-
----
-
-### ☁️ [Instacart Azure Data Pipeline](https://github.com/Cherish0308/instacart-azure-pipeline)
-> End-to-end cloud data pipeline processing Instacart order data on Azure
-
-- `Azure` · `Apache Spark` · `Data Factory`
-
----
-
 ### ❄️ [Snowflake Data Engineering Pipeline](https://github.com/Cherish0308/Snowflake-Powered-Data-Engineering-An-End-to-End-Cloud-Data-Pipeline-Solution)
 > Production-style cloud data pipeline built entirely on Snowflake
 
